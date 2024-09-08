@@ -32,6 +32,7 @@
               # gems
               ruby
               pkgs.bundix
+              ## Additional packages needed to build all gems
               pkgs.postgresql
               pkgs.libyaml
               pkgs.pnpm
